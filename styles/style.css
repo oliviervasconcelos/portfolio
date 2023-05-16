@@ -134,6 +134,10 @@ body{
     color: var(--cor-texto);
 }
 
+.apresentacao__conteudo__certificado:hover{
+    color: var(--cor-secundaria);
+}
+
 /* rodapé das duas páginas */
 
 .rodape{
