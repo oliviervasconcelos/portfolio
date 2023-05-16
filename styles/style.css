@@ -129,6 +129,10 @@ body{
     font-weight: 400;
 }
 
+.apresentacao__conteudo__certificado{
+    text-decoration: none;
+    color: var(--cor-texto);
+}
 
 /* rodapé das duas páginas */
 
